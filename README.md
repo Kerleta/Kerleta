@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kerleta&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20Progress" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerleta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=darcula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerleta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -48,9 +48,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Fzns">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fzns&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  
+![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=ay4b35aq9bqbmbfe2fuevkrxa&unique={true|1|on|yes})
+
 </div>
 
 ###
